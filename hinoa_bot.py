@@ -49,7 +49,6 @@ async def help(ctx):
     embed.add_field(name = "h~skill", value = f"Returns all armor pieces with the desired skill", inline = True)
     embed.add_field(name = "h~boop 'username'", value = f"Boops your friend", inline = True)
     embed.add_field(name = "h~ping", value = f"Returns your current ping", inline = True)
-    embed.add_field(name = "h~AraAra", value = f"You know what this means ya filthy weeb", inline = True)
     embed.add_field(name = "If you would liked to report a bug or suggest an improvement, please follow the link to the google form:", value = '[Feedback Form](https://forms.gle/VvDnCeVwqfAK4o7e7 )', inline = False)
     embed.set_footer(text = 'Hinoa Bot v0.3.0')
     await ctx.send(embed = embed)
