@@ -1,0 +1,566 @@
+Part,Monster,Target Rewards,Capture Rewards,Broken Parts,Carve,Drops,Rank
+Aknosom Scale,Aknosom,24%,43%,"100% (Tail), 30% (Beak)",43% (Body),15%,Low
+Aknosom Feather,Aknosom,32%,39%,100% (Wing),31% (Body),70%,Low
+Aknosom Beak,Aknosom,8%,12%,70% (Beak),5% (Body),--,Low
+Flame Sac (Aknosom),Aknosom,24%,20%,--,21% (Body),--,Low
+Monster Bone M (Aknosom),Aknosom,12%,--,--,--,--,Low
+Aknosom Crest,Aknosom,--,5%,100% (Crest),--,--,Low
+Aknosom Scale+,Aknosom,21%,21%,"100% (Tail), 25% (Beak)",41% (Body),34%,High
+Aknosom Feather+,Aknosom,30%,36%,100% (Wing),29% (Body),15%,High
+Aknosom Beak (H),Aknosom,12%,15%,70% (Beak),8% (Body),,High
+Inferno Sac (Aknosom),Aknosom,24%,18%,--,19% (Body),--,High
+Bird Wyvern Gem (Aknosom),Aknosom,3%,5%,5% (Beak),3% (Body),1%,High
+Monster Keenbone (Aknosom),Aknosom,10%,--,--,--,--,High
+Aknosom Crest+,Aknosom,--,5%,100% (Crest),--,--,High
+Almudron Scale,Almudron,16%,18%,"70% (Torso), 10% (Foreleg)",10% (Body),19%,Low
+Almudron Shell,Almudron,27%,23%,"30% (Torso), 20% (Tail)",27% (Body),28%,Low
+Almudron Fin,Almudron,15%,--,"17% (Head), 80% (Tail)","22% (Body), 17% (Tail)",--,Low
+Almudron Whisker,Almudron,10%,--,80% (Head),12% (Body),--,Low
+Almudron Tail,Almudron,8%,12%,--,80% (Tail),--,Low
+Golden Muck,Almudron,22%,13% (x2),--,--,30%,Low
+Almudron Plate,Almudron,2%,3%,3% (Head),"1% (Body), 3% (Tail)",1%,Low
+Almudron Claw,Almudron,--,31%,90% (x2) (Foreleg),--,10%,Low
+Almudron Scale+,Almudron,17%,15%,"70% (Torso), 10% (Foreleg)",36% (Body),18%,High
+Almudron Shell+,Almudron,28%,21%,"30% (Torso), 20% (Tail)",26% (Body),28%,High
+Almudron Fin+,Almudron,16%,--,"12% (Head), 80% (Tail)","22% (Body), 12% (Tail)",--,High
+Almudron Whisker+,Almudron,10%,--,80% (Head),12% (Body),--,High
+Golden Sludge,Almudron,23%,13% (x2),--,--,28%,High
+Almudron Plate (H),Almudron,5%,5%,5% (Head),"3% (Body), 5% (Tail)",3%,High
+Golden Almudron Orb,Almudron,1%,3%,3% (Head),"1% (Body), 3% (Tail)",1%,High
+Almudron Claw+,Almudron,--,31%,90% (x2) (Foreleg),--,10%,High
+Almudron Tail (H),Almudron,--,12%,--,80% (Tail),--,High
+Anjanath Pelt,Anjanath,20%,21%,--,27% (Body),30%,Low
+Anjanath Scale,Anjanath,35%,31%,"60% (Leg), 40% (x2) (Leg)","31% (Body), 27% (Tail)",39%,Low
+Anjanath Nosebone,Anjanath,19%,--,35% (Head),18% (Body),--,Low
+Anjanath Tail,Anjanath,9%,12%,--,70% (Tail),--,Low
+Anjanath Plate,Anjanath,2%,3%,3% (Head),"1% (Body), 3% (Tail)",1%,Low
+Flame Sac (Anjanath),Anjanath,15%,10% (x2),--,--,--,Low
+Anjanath Fang,Anjanath,--,23% (x2),62% (Head),23% (Body),10%,Low
+Anjanath Pelt+,Anjanath,20%,21%,--,26% (Body),30%,High
+Anjanath Scale+,Anjanath,34%,31%,"60% (Leg), 40% (x2) (Leg)","30% (Body), 25% (Tail)",36%,High
+Anjanath Nosebone+,Anjanath,18%,--,30% (Head),17% (Body),--,High
+Anjanath Tail+,Anjanath,6%,8%,--,65% (Tail),--,High
+Anjanath Plate (H),Anjanath,5%,7%,7% (Head),"4% (Body), 7% (Tail)",3%,High
+Anjanath Gem,Anjanath,2%,3%,3% (?),1% (?),1%,High
+Inferno Sac (Anjanath),Anjanath,15%,7% (x2),--,--,--,High
+Anjanath Fang+,Anjanath,--,23% (x2),60% (Head),22% (Body),10%,High
+Apex Beastclaw,Apex Arzuros,7%,--,80% (Foreleg),8% (Body),--,High
+Arzuros Carapace (Apex),Apex Arzuros,36%,--,--,28% (Body),60%,High
+Arzuros Pelt+ (Apex),Apex Arzuros,27%,--,20% (Foreleg),47% (Body),40%,High
+Stoutbone (Apex Arzuros),Apex Arzuros,14%,--,--,47% (Body),40%,High
+Honey (Apex Arzuros),Apex Arzuros,10% (x6),--,--,--,100% (x3),High
+Beast Gem (Apex Arzuros),Apex Arzuros,6%,--,--,4% (Body),--,High
+Sushifish (Apex Arzuros),Apex Arzuros,--,--,--,--,80%,High
+Goldenfish (Apex Arzuros),Apex Arzuros,--,--,--,--,20%,High
+Apex Curlhorn,Apex Diablos,5%,--,100% (Both Horns),7% (Body),--,High
+Diablos Carapace (Apex),Apex Diablos,32%,--,--,"39% (Body), 12% (Tail)",70%,High
+Diablos Ridge+ (Apex),Apex Diablos,25%,--,50% (Back),32% (Body),30%,High
+Diablos Fang (Apex),Apex Diablos,13%,--,--,14% (Body),--,High
+Diablos Tailcase (Apex),Apex Diablos,5%,--,--,70% (Tail),--,High
+Dash Extract (Apex Diablos),Apex Diablos,8%,--,--,--,--,High
+Diablos Medulla (Apex),Apex Diablos,8%,,20% (Back),"12% (Tail), 5% (Body)",--,High
+Wyvern Gem (Apex Diablos),Apex Diablos,4%,--,--,"6% (Tail), 3% (Body)",2%,High
+Diablos Marrow (Apex),Apex Diablos,--,--,30% (Back),--,--,High
+Apex Bubblefoam,Apex Mizutsune,6%,--,"31% (Head), 28% (Tail)",12% (Body),--,High
+Mizutsune Scale+ (Apex),Apex Mizutsune,38%,--,--,41% (Body),60%,High
+Mizutsune Purplefur+ (Apex),Apex Mizutsune,29%,--,"65% (Tail), 30% (Dorsal Fin), 20% (Claws)","28% (Body), 13% (Tail)",40%,High
+Mizutsune Claw+ (Apex),Apex Mizutsune,15%,--,80% (Claws),15% (Body),--,High
+Mizutsune Tail (Apex),Apex Mizutsune,5%,--,--,75% (Tail),--,High
+Mizutsune Plate (Apex),Apex Mizutsune,5%,--,"7% (Head), 5% (Tail)","3% (Body), 7% (Tail)",--,High
+Mizutsune Water Orb (Apex),Apex Mizutsune,2%,--,"5% (Head), 2% (Tail)","1% (Body), 5% (Tail)",2%,High
+Mizutsune Fin+ (Apex),Apex Mizutsune,--,--,"60% (Head), 57% (Dorsal Fin), 10% (x2) (Dorsal Fin)",--,--,High
+Apex Blaze Sac,Apex Rathalos,8%,--,35% (Head),12% (Body),--,High
+Rathalos Scale+ (Apex),Apex Rathalos,35%,--,32% (Head),"36% (Body), 18% (Tail)",39%,High
+Rathalos Carapace (Apex),Apex Rathalos,27%,--,"21% (Head), 65% (Back)",24% (Body),30%,High
+Rathalos Wing (Apex),Apex Rathalos,15%,--,30% (Wing),19% (Body),--,High
+Rathalos Medulla (Apex Rathalos),Apex Rathalos,8%,--,30% (Back),"5% (Body), 7% (Tail)",--,High
+Rathalos Plate (Apex),Apex Rathalos,5%,--,"7% (Head), 4% (Back)","3% (Body), 5% (Tail)",--,High
+Rathalos Ruby (Apex),Apex Rathalos,2%,--,"5% (Head), 1% (Back)","1% (Body), 5% (Tail)",2%,High
+Rath Wingtalon+ (Apex Rathalos),Apex Rathalos,--,--,70% (Wing),--,19%,High
+Rathalos Tail (Apex),Apex Rathalos,--,--,--,65% (Tail),--,High
+Apex Venom Spike,Apex Rathian,5%,--,35% (Back),"6% (Body), 40% (Tail)",--,High
+Rathian Scale+ (Apex),Apex Rathian,31%,--,58% (Head),41% (Body),58%,High
+Rathain Carapace (Apex),Apex Rathian,23%,--,30% (Head),32% (Body),40%,High
+Rathian Webbing (Apex),Apex Rathian,8%,--,20% (x2) (Wing),--,--,High
+Inferno Sac (Apex Rathian),Apex Rathian,14%,--,--,17% (Body),--,High
+Monster Keenbone (Apex Rathian),Apex Rathian,12%,--,--,--,--,High
+Rathian Plate (Apex),Apex Rathian,5%,--,"7% (Head), 3% (Back)","3% (Body), 5% (Tail)",--,High
+Rathian Ruby (Apex),Apex Rathian,2%,--,"5% (Head),  2% (Back)","5% (Body), 1% (Tail)",2%,High
+Rath Wingtalon+ (Apex Rathain),Apex Rathian,--,--,80% (Wing),--,--,High
+Rathalos Medulla (Apex Rathian),Apex Rathian,--,--,--,8%,--,High
+Apex Shockshell,Apex Zinogre,5%,--,"70% (Back), 10% (Foreleg)",9% (Body),--,High
+Zinogre Carapace (Apex),Apex Zinogre,39%,--,--,"36% (Body), 8% (Tail)",50%,High
+Zinogre Electrofur (Apex),Apex Zinogre,32%,--,30% (Back),29% (Body),38%,High
+Zinogre Tail (Apex),Apex Zinogre,4%,--,--,80% (Tail),--,High
+Fulgurbug (Apex),Apex Zinogre,12%,--,--,--%,15% (x2),High
+Zinogre Plate (Apex),Apex Zinogre,5%,--,7% (Both Horns),"7% (Tail), 3% (Body)",--,High
+Zinogre Jasper (Apex),Apex Zinogre,3%,--,3% (Both Horns),"5% (Tail), 1% (Body)",2%,High
+Zinogre Horn+ (Apex),Apex Zinogre,--,--,90% (Both Horns),--,--,High
+Zinogre Claw+ (Apex),Apex Zinogre,--,--,"70% (Foreleg) (x1), 20% (Foreleg) (x2)",22% (Body),12%,High
+Arzuros Shell,Arzuros,14%,39%,--,30% (Body),40%,Low
+Arzuros Pelt,Arzuros,35%,17% (x2),20% (Foreleg),55% (Body),60%,Low
+Arzuros Brace,Arzuros,18%,24%,80% (Foreleg),--,10%,Low
+Jumbo Bone (Arzuros),Arzuros,16%,20% (x2),--,15% (Body),--,Low
+Honey,Arzuros,14% (x3),--,--,--,100%,Low
+Sushifish,Arzuros,--,--,--,--,85%,Low
+Goldenfish,Arzuros,--,--,--,--,15%,Low
+Arzuros Carapace,Arzuros,14%,37%,--,30% (Body),40%,Low
+Arzuros Pelt+,Arzuros,36%,16% (x2),--,52% (Body),39%,High
+Arzuros Brace+,Arzuros,21%,22%,--,--,10%,High
+Stoutbone (Arzuros),Arzuros,14%,18% (x2),--,15% (Body),--,High
+Honey (H),Arzuros,10% (x6),--,--,--,100% (x3),High
+Beast Gem (Arzuros),Arzuros,5%,7%,--,3% (Body),1%,High
+Sushifish (H),Arzuros,--,--,--,--,75%,High
+Goldenfish (H),Arzuros,--,--,--,--,25%,High
+Barioth Shell,Barioth,21%,--,25% (Head),"40% (Body), 10% (Tail)",30%,Low
+Barioth Pelt,Barioth,33%,31%,--,25% (Body),35%,Low
+Barioth Claw,Barioth,9%,17%,75% (Thorns),--,10%,Low
+Barioth Spike,Barioth,13%,9%,25% (Thorns),20% (Tail),10%,Low
+Barioth Tail,Barioth,8%,16%,--,70% (Tail),--,Low
+Frost Sac (Barioth),Barioth,16%,14% (x2),--,20% (Body),--,Low
+Amber Fang,Barioth,--,13%,75% (Head),15% (Body),--,Low
+Barioth Carapace,Barioth,21%,--,20% (Head),"39% (Body), 15% (Tail)",32%,High
+Barioth Pelt+,Barioth,33%,33%,--,25% (Body),35%,High
+Barioth Claw+,Barioth,12%,18%,70% (Thorns),--,10%,High
+Barioth Spike (H),Barioth,8% (x2),6% (x2),30% (x2) (Thorns),15% (x2) (Tail),7% (x2),High
+Barioth Tail (H),Barioth,5%,12%,--,65% (Tail),--,High
+Freezer Sac (Barioth),Barioth,18%,14% (x2),--,20% (Body),--,High
+Wyvern Gem (Barioth),Barioth,3%,3%,5% (Head),"1% (Body), 5% (Tail)",1%,High
+Amber Fang+,Barioth,--,14%,75% (Head),15% (Body),--,High
+Barroth Shell,Barroth,14%,12% (x2),100% (Hind Leg),"42% (Body), 30% (Tail)",50%,Low
+Barroth Ridge,Barroth,28%,22%,--,"30% (Body), 20% (Scalp)",15%,Low
+Barroth Claw,Barroth,20%,30%,100% (Foreleg),20% (x2) (Body),--,Low
+Barroth Scalp,Barroth,10%,13%,--,"8% (Body), 80% (Scalp)",--,Low
+Barroth Tail,Barroth,8%,12%,--,70% (Tail),--,Low
+Fertile Mud,Barroth,10% (x2),11% (x2),--,--,35%,Low
+Monster Bone M (Barroth),Barroth,10%,--,--,--,--,Low
+Barroth Carapace,Barroth,15%,13% (x2),100% (Hind Leg),"42% (Body), 37% (Tail)",50%,High
+Barroth Ridge+,Barroth,29%,23%,--,"31% (Body), 27% (Scalp)",14%,High
+Barroth Claw+,Barroth,21%,32%,100% (Foreleg),21% (x2) (Body),--,High
+Barroth Scalp (H),Barroth,6%,8%,--,"6% (Body), 70% (Scalp)",--,High
+Barroth Tail (H),Barroth,6%,8%,--,60% (Tail),--,High
+Rich Mud,Barroth,11% (x2),11% (x2),--,--,"35% (x1), 30% (x2)",High
+Monster Keenbone (Barroth),Barroth,11%,--,--,--,--,High
+Wyvern Gem (Barroth),Barroth,1%,5%,--,"3% (Tail), 3% (Scalp)",1%,High
+Basarios Shell,Basarios,16%,24% (x2),"80% (Head), 25% (Back)","40% (Body), 13% (Tail)",15%,Low
+Basarios Pleura,Basarios,27%,--,55% (Chest),27% (Body),20%,Low
+Basarios Wing,Basarios,20%,34%,40% (Back),--,--,Low
+Basarios Tail,Basarios,7%,12%,--,80% (Tail),--,Low
+Poison Sac (Basarios),Basarios,12%,16%,20% (Chest),21% (Body),--,Low
+Flame Sac (Basarios),Basarios,8%,14%,20% (Head),--,--,Low
+Machalite Ore,Basarios,10% (x2),--,"35% (x2) (Back), 25% (Chest)","12% (Body), 7% (x2) (Tail)",--,Low
+Basarios Carapace,Basarios,19%,27% (x2),"70% (Head), 35% (Back)","37% (Body), 17% (Tail)",35%,High
+Basarios Pleura+,Basarios,28%,--,55% (Chest),26% (Body),15%,High
+Basarios Tears,Basarios,7%,10%,10% (Head),7% (Body),20%,High
+Toxin Sac (Basarios),Basarios,17%,18%,20% (Chest),19% (Body),3%,High
+Inferno Sac (Basarios),Basarios,15%,15%,20% (Head),--,--,High
+Carbalite Ore,Basarios,12% (x2),--,"40% (x2) (Back), 25% (Chest)","10% (Body), 10% (x2) (Tail)",--,High
+Wyvern Gem (Basarios),Basarios,2%,3%,--,"1% (Body), 3% (Tail)",31%,High
+Basarios Wing (H),Basarios,--,18% (x2),25% (x2) (Back),--,1%,High
+Basarios Tail (H),Basarios,--,9%,--,70% (Tail),--,High
+Bazelgeuse Scale+,Bazelgeuse,18%,14% (x2),27% (x2) (Head),39% (Body),55%,High
+Bazelgeuse Carapace,Bazelgeuse,31%,18%,69% (Back),"27% (Tail), 26% (Body)",35%,High
+Bazelgeuse Talon,Bazelgeuse,23%,24%,35% (Wing),19% (Body),10%,High
+Bazelgeuse Fuse,Bazelgeuse,14%,--,"70% (Head), 30% (Back)",15% (Body),--,High
+Bazelgeuse Wing,Bazelgeuse,12%,29%,65% (Wing),--,--,High
+Bazelgeuse Gem,Bazelgeuse,2%,3%,"3% (Head), 1% (Back)","3% (Tail), 1% (Body)",1%,High
+Bazelgeuse Tail,Bazelgeuse,--,12%,--,70% (Tail),--,High
+Bishaten Fur,Bishaten,22%,23%,20% (Head),52% (Body),40%,Low
+Bishaten Feather,Bishaten,33%,36%,70% (Wing),33% (Body),35%,Low
+Bishaten Talon,Bishaten,22%,18%,30% (x2) (Wing),--,--,Low
+Bishaten Horn,Bishaten,9%,--,80% (Head),5% (Body),--,Low
+Jumbo Bone (Bishaten),Bishaten,14%,--,--,10% (Body),--,Low
+Bisha Tailcase,Bishaten,--,23%,100% (Tail),--,10%,Low
+Jumbofruit,Bishaten,--,--,--,--,100%,Low
+Poisonfruit,Bishaten,--,--,--,--,100%,Low
+Flashfruit,Bishaten,--,--,--,--,100%,Low
+Bishaten Fur+,Bishaten,20%,20%,15% (Head),49% (Body),39%,High
+Bishaten Feather+,Bishaten,32%,33%,70% (Wing),32% (Body),35%,High
+Bishaten Talon+,Bishaten,21%,16% (x2),30% (x2) (Wing),--,--,High
+Bishaten Horn+,Bishaten,9%,--,80% (Head),5% (Body),--,High
+Stoutbone (Bishaten),Bishaten,12%,--,--,10% (Body),--,High
+Beast Gem (Bishaten),Bishaten,6%,8%,5% (Head),4% (Body),1%,High
+Bisha Tailcase+,Bishaten,--,23%,--,--,10%,High
+Jumbofruit (H),Bishaten,--,--,--,--,100%,High
+Poisonfruit (H),Bishaten,--,--,--,--,100%,High
+Parafruit,Bishaten,--,--,--,--,100%,High
+Flashfruit (H),Bishaten,--,--,--,--,100%,High
+Chameleos Hide+,Chameleos,21%,--,"17% (Horn), 20% (Wing)","36% (Body), 17% (Tail)",30%,High
+Chameleos Claw+,Chameleos,28%,--,--,29% (Body),30%,High
+Chameleos Wing,Chameleos,26%,--,80% (Wing),12% (Body),--,High
+Chameleos Tail,Chameleos,12%,--,--,80% (Tail),--,High
+Chameleos Gem,Chameleos,3%,--,3% (Horn),"2% (Body), 3% (Tail)",1%,High
+Fucium Ore,Chameleos,10% (x2),--,--,--,14%,High
+Chameleos Spike,Chameleos,--,--,80% (Horn),21% (Body),--,High
+Elder Dragon Blood (Chameleos),Chameleos,--,--,,--,15%,High
+Gleaming Shell,Crimson Glow Valstrax,14%,--,20% (Foreleg),28% (Body),50%,High
+Shimmering Scale,Crimson Glow Valstrax,26%,--,"79% (Chest), 77% (Head)","36% (Body), 17% (Tail)",25%,High
+Valstrax Claw+,Crimson Glow Valstrax,20%,--,"20% (Foreleg), 10% (Wing)",14% (Body),--,High
+Valstrax Spineshell,Crimson Glow Valstrax,13%,--,90% (Back),--,--,High
+Valstrax Tail,Crimson Glow Valstrax,10%,--,--,80% (Tail),--,High
+Crimson Liquid,Crimson Glow Valstrax,15%,--,"20% (Head x2), 20% (Chest), 10% (Back x2)",--,34%,High
+Red Serpent Orb,Crimson Glow Valstrax,2%,--,"3% (Head), 1% (Chest)","3% (Tail), 1% (Body)",1%,High
+Rouge Spikewing,Crimson Glow Valstrax,--,--,90% (Wing),21% (Body),--,High
+Diablos Shell,Diablos,16%,28%,"40% (Body), 18% (Tail)",--,15%,Low
+Diablos Ridge,Diablos,33%,25%,80% (Back),32% (Body),35%,Low
+Diablos Fang,Diablos,25%,21%,--,23% (Body),--,Low
+Diablos Tailcase,Diablos,7%,16%,--,70% (Tail),--,Low
+Dash Extract (Diablos),Diablos,12%,--,--,--,35%,Low
+Diablos Marrow,Diablos,7%,10%,20% (Back),"5% (Body), 12% (Tail)",--,Low
+Twisted Horn,Diablos,--,--,100% (Both Horns),--,--,Low
+Diablos Carapace,Diablos,18%,29%,--,"40% (Body), 13% (Tail)",24%,High
+Diablos Ridge+,Diablos,35%,23%,50% (Back),33% (Body),35%,High
+Diablos Fang (H),Diablos,13% (x2),11% (x2),--,12% (x2) (Body),--,High
+Diablos Tailcase (H),Diablos,5%,9%,--,70% (Tail),--,High
+Dash Extract (H) (Diablos),Diablos,9% (x2),--,--,--,25% (x2),High
+Diablos Marrow (H),Diablos,10%,13%,30% (Back),7% (Body),--,High
+Diablos Medulla,Diablos,7%,10%,20% (Back),"5% (Body), 12% (Tail)",--,High
+Wyvern Gem (Diablos),Diablos,3%,5%,--,"3% (Body), 5% (Tail)",1%,High
+Majestic Horn,Diablos,--,--,100% (Both Horns),--,--,High
+Goss Harag Fur,Goss Harag,19%,14%,80% (Back),32% (Body),40%,Low
+Goss Harag Hide,Goss Harag,29%,29%,"20% (Head), 20% (Back)",19% (Body),25%,Low
+Goss Harag Brace,Goss Harag,20%,25%,20% (Foreleg),16% (Body),--,Low
+Block of Ice,Goss Harag,14%,12%,--,--,35%,Low
+Frost Sac (Goss Harag),Goss Harag,10%,--,--,12% (Body),--,Low
+Massive Bone,Goss Harag,8%,--,--,--,--,Low
+Goss Harag Claw,Goss Harag,--,20%,80% (x2) (Foreleg),--,15%,Low
+Goss Harag Horn,Goss Harag,--,--,80% (Head),21% (Body),--,Low
+Goss Harag Fur+,Goss Harag,18%,12%,80% (Back),29% (Body),40%,High
+Goss Harag Hide+,Goss Harag,27%,25%,"10% (Head), 12% (Back)",18% (Body),25%,High
+Goss Harag Brace+,Goss Harag,20%,20%,20% (Foreleg),15% (Body),--,High
+Block of Ice+,Goss Harag,14%,10%,--,--,33%,High
+Freezer Sac (Goss Harag),Goss Harag,10%,--,--,9% (Body),--,High
+Beast Gem (Goss Harag),Goss Harag,8%,10%,10% (Head),6% (Body),2%,High
+Goss Harag Bile,Goss Harag,3%,5%,8% (Back),2% (Body),1%,High
+Goss Harag Claw+,Goss Harag,--,18%,80% (x2) (Foreleg),--,14%,High
+Goss Harag Horn+,Goss Harag,--,--,80% (Head),21% (Body),--,High
+Great Baggi Hide,Great Baggi,21%,21% (x2),--,40% (Body),70%,Low
+Great Baggi Claw,Great Baggi,36%,46%,--,33% (Body),30%,Low
+King's Crest,Great Baggi,5%,15%,70% (Head),--,--,Low
+Sleep Sac (Great Baggi),Great Baggi,24%,--,30% (Head),27% (Body),--,Low
+Monster Bone M (Great Baggi),Great Baggi,14%,18% (x2),--,--,--,Low
+Great Baggi Hide+,Great Baggi,22%,23% (x2),--,38% (Body),39%,High
+Great Baggi Claw+,Great Baggi,37%,47%,--,32% (Body),10%,High
+Coma Sac (Great Baggi),Great Baggi,25%,--,20% (Head),27% (Body),--,High
+Bird Wyvern Gem (Great Baggi),Great Baggi,3%,5%,10% (Head),3% (Body),1%,High
+Monster Bone+ (Great Baggi),Great Baggi,13%,13% (x2),--,--,--,High
+King's Crest (H),Great Baggi,--,12%,70% (Head),--,--,High
+Great Izuchi Hide,Great Izuchi,21%,26%,20% (Tail),43% (Body),30%,Low
+Great Izuchi Pelt,Great Izuchi,36%,39%,30% (Head),33% (Body),20%,Low
+Great Izuchi Tail,Great Izuchi,5%,15%,80% (Tail),--,--,Low
+Screamer Sac,Great Izuchi,26%,20% (x2),70% (Head),24% (Body),--,Low
+Monster Bone S,Great Izuchi,12%,--,--,--,--,Low
+Great Izuchi Hide+,Great Izuchi,23%,27%,20% (Tail),44% (Body),29%,High
+Great Izuchi Pelt+,Great Izuchi,39%,39%,32% (Head),35% (Body),20%,High
+Great Izuchi Tail+,Great Izuchi,5%,15%,80% (Tail),--,--,High
+Screamer Sac (H),Great Izuchi,18% (x2),16% (x3),65% (x2) (Head),20% (x2) (Body),--,High
+Monster Bone+ (Great Izuchi),Great Izuchi,13%,--,--,--,--,High
+Bird Wyvern Gem (Great Izuchi),Great Izuchi,2%,3%,3% (Head),1% (Body),1%,High
+Great Wroggi Hide,Great Wroggi,22%,21% (x2),--,42% (Body),70%,Low
+Great Wroggi Brace,Great Wroggi,34%,46%,--,31% (Body),30%,Low
+King's Beak,Great Wroggi,5%,15%,70% (Head),--,--,Low
+Poison Sac (Great Wroggi),Great Wroggi,26%,--,30% (Head),27% (Body),--,Low
+Monster Bone M (Great Wroggi),Great Wroggi,13%,18%,--,--,--,Low
+Great Wroggi Hide+,Great Wroggi,22%,24% (x2),--,41% (Body),34%,High
+Great Wroggi Brace+,Great Wroggi,36%,46%,--,32% (Body),15%,High
+Toxin Sac (Great Wroggi),Great Wroggi,27%,--,18% (Head),24% (Body),--,High
+Monster Bone+ (Great Wroggi),Great Wroggi,12%,13% (x2),--,--,--,High
+Bird Wyvern Gem (Great Wroggi),Great Wroggi,3%,5%,12% (Head),3% (Body),1%,High
+King's Beak (H),Great Wroggi,--,12%,70% (Head),--,--,High
+Jyuratodus Carapace,Jyuratodus,12%,33%,100% (Leg),27% (Body),30%,High
+Jyuratodus Scale+,Jyuratodus,34%,19% (x2),100% (Tail),37% (Body),37%,High
+Jyuratodus Fang+,Jyuratodus,14%,25%,100% (Head),15% (Body),12%,High
+Jyuratodus Fin+,Jyuratodus,9%,19%,100% (Back),20% (Body),--,High
+Monster Keenbone (Jyuratodus),Jyuratodus,12%,--,--,--,--,High
+Torrent Sac (Jyuratodus),Jyuratodus,16%,--,--,--,--,High
+Wyvern Gem (Jyuratodus),Jyuratodus,3%,4%,--,1% (Body),1%,High
+Flabby Hide,Khezu,15%,16%,100% (Leg),36% (Body),40%,Low
+Suspicious Fang,Khezu,29% (x2),33%,60% (x2) (Head),21% (Body),20%,Low
+Pale Extract,Khezu,20%,23% (x2),28% (Head),28% (Body),30%,Low
+Pale Bone,Khezu,8%,10%,12% (Leg),--,--,Low
+Electro Sac (Khezu),Khezu,18%,18% (x2),--,15% (Body),--,Low
+Monster Bone M (Khezu),Khezu,10%,--,--,--,--,Low
+Pearl Hide,Khezu,14%,16%,100% (Leg),37% (Body),50%,High
+Suspicious Fang+,Khezu,20% (x2),34%,52% (x2) (Head),24% (Body),27%,High
+Pale Extract (H),Khezu,14% (x2),19% (x2),20% (x2) (Head),19% (x2) (Body),70% (x2),High
+Pale Bone (H),Khezu,10%,--,16% (Head),--,--,High
+Pale Steak,Khezu,8%,10%,12% (Head),--,--,High
+Thunder Sac (Khezu),Khezu,21%,18% (x2),--,20% (Body),--,High
+Monster Keenbone (Khezu),Khezu,12%,--,--,--,--,High
+Wyvern Gem (Khezu),Khezu,1%,3%,--,--,1%,High
+Kulu-Ya-Ku Scale,Kulu-Ya-Ku,25%,22% (x2),20% (Foreleg),46% (Body),60%,Low
+Kulu-Ya-Ku Hide,Kulu-Ya-Ku,41%,43%,20% (Head),36% (Body),40%,Low
+Kulu-Ya-Ku Plume,Kulu-Ya-Ku,13%,23%,80% (Foreleg),18% (Body),15%,Low
+Kulu-Ya-Ku Beak,Kulu-Ya-Ku,7%,12%,80% (Head),--,--,Low
+Monster Bone M (Kulu-Ya-Ku),Kulu-Ya-Ku,14%,--,--,--,--,Low
+Kulu-Ya-Ku Scale+,Kulu-Ya-Ku,24%,22% (x2),20% (Foreleg),44% (Body),34%,High
+Kulu-Ya-Ku Hide+,Kulu-Ya-Ku,41%,41%,15% (Head),35% (Body),40%,High
+Kulu-Ya-Ku Plume+,Kulu-Ya-Ku,13%,20%,80% (Foreleg),18% (Body),15%,High
+Kulu-Ya-Ku Beak+,Kulu-Ya-Ku,7%,12%,80% (Head),--,--,High
+Monster Bone+ (Kulu-Ya-Ku),Kulu-Ya-Ku,12%,--,--,--,--,High
+Bird Wyvern Gem (Kulu-Ya-Ku),Kulu-Ya-Ku,3%,5%,5% (Head),3% (Body),1%,High
+Daora Carapace,Kushala Daora,16%,--,--,"30% (Body), 17% (Tail)",34%,High
+Daora Dragon Scale+,Kushala Daora,32%,--,17% (x2) (Head),24% (Body),45%,High
+Daora Claw+,Kushala Daora,21%,--,30% (x2) (Wing),15% (Body),10%,High
+Daora Webbing,Kushala Daora,16%,--,70% (Wing),12% (Body),--,High
+Daora Tail,Kushala Daora,12%,--,--,80% (Tail),--,High
+Daora Gem,Kushala Daora,3%,--,3% (Head),"2% (Body), 3% (Tail)",1%,High
+Daora Horn+,Kushala Daora,--,--,80% (Head),17% (Body),--,High
+Elder Dragon Blood (Kushala Daora),Kushala Daora,--,--,--,--,15%,High
+Lagombi Pelt,Lagombi,22%,16% (x2),20% (x2) (Head),39% (Body),"50% (x1), 40% (x1)",Low
+Lagombi Plastron,Lagombi,39%,37%,--,30% (Body),35%,Low
+Lagombi Iceclaw,Lagombi,23%,16%,--,24% (Body),"15% (x1), 10% (x1)",Low
+Jumbo Bone (Lagombi),Lagombi,16%,5% (x2),--,7% (Body),--,Low
+Lagombi Ear,Lagombi,--,26%,80% (Head),--,--,Low
+Lagombi Pelt+,Lagombi,21%,14% (x2),12% (x2) (Head),38% (Body),"39% (x1), 50% (x1)",High
+Lagombi Plastron (H),Lagombi,38%,32%,--,27% (Body),35%,High
+Lagombi Frozenclaw,Lagombi,22%,16%,--,24% (Body),"10% (x1), 15% (x1)",High
+Stoutbone (Lagombi),Lagombi,14%,5% (x2),--,8% (Body),--,High
+Beast Gem (Lagombi),Lagombi,5%,7%,8% (Head),3% (Body),1%,High
+Lagombi Ear+,Lagombi,--,26%,80% (Head),--,--,High
+Magnamalo Scale,Magnamalo,17%,--,36% (Armblade),"36% (Body), 20% (Tail)","19% (x1), 31% (x1)",Low
+Magnamalo Shell,Magnamalo,29%,37%,--,21% (Body),26%,Low
+Magnamalo Blade,Magnamalo,21%,--,80% (Armblade),16% (Body),--,Low
+Magnamalo Scute,Magnamalo,7%,19%,80% (Back),--,8%,Low
+Magnamalo Tail,Magnamalo,8%,15%,--,80% (Tail),--,Low
+Magna Ghostprism,Magnamalo,16%,--,20% (x2) (Back),26% (Body),"30% (x1), 35% (x2)",Low
+Magnamalo Plate,Magnamalo,2%,3%,3% (Head),1% (Body),1%,Low
+Magnamalo Horn,Magnamalo,--,26%,97% (Head),--,--,Low
+Magnamalo Scale+,Magnamalo,18%,--,20% (Armblade),"34% (Body), 17% (Tail)","16% (x1), 30% (x1)",High
+Magnamalo Shell+,Magnamalo,30%,35%,--,20% (Body),26%,High
+Magnamalo Blade+,Magnamalo,22%,--,80% (Armblade),16% (Body),--,High
+Magnamalo Scute+,Magnamalo,8%,18%,80% (Armblade),--,8%,High
+Magna Soulprism,Magnamalo,16%,--,20% (x2) (Back),26% (Body),"30% (x1), 35% (x2)",High
+Magnamalo Plate (H),Magnamalo,5%,5%,5% (Head),"5% (Body), 5% (Tail)","3% (x1), 1% (x1)",High
+Purple Magna Orb,Magnamalo,1%,3%,3% (Part),"1% (Part), 3% (Part)",1%,High
+Magnamalo Horn+,Magnamalo,--,25%,92% (Head),--,--,High
+Magnamalo Tail (H),Magnamalo,--,14%,--,75% (Tail),--,High
+Mizutsune Scale,Mizutsune,21%,16%,--,39% (Body),"19% (x1), 45% (x1)",Low
+Mizutsune Purplefur,Mizutsune,31%,23%,"30% (Dorsal Fin), 20% (Right Claw), 20% (Left Claw), 68% (Tail)","26% (Body), 17% (Tail)",30%,Low
+Mizutsune Claw,Mizutsune,15%,--,"80% (Right Claw), 80% (Left Claw)",13% (Body),--,Low
+Bubblefoam,Mizutsune,24%,14%,"32% (Head), 30% (Tail)",21% (Body),"30%(x1), 25%(x2)",Low
+Mizutsune Tail,Mizutsune,7%,12%,--,80% (Tail),--,Low
+Mizutsune Plate,Mizutsune,2%,3%,"3% (Head), 2% (Tail)","1% (Body), 3% (Tail)",1%,Low
+Mizutsune Fin,Mizutsune,--,32%,"65%(x1) (Head),60%(x1) (Dorsal Fin),10%(x2) (Dorsal Fin)",--,--,Low
+Mizutsune Scale+,Mizutsune,19%,17%,--,38% (Body),"18%(x1), 44%(x1)",High
+Mizutsune Purplefur+,Mizutsune,31%,27%,"30% (Dorsal Fin), 20% (Right Claw), 20% (Left Claw), 65% (Tail)","25% (Body), 15% (Tail)	",30%,High
+Mizutsune Claw+,Mizutsune,15%,22%,"80% (Right Claw), 80% (Left Claw)",12% (Body),--,High
+Bubblefoam+,Mizutsune,23%,16% (x2),"30% (Head), 28% (Tail)",21% (Body),"28%(x1), 25%(x2)",High
+Mizutsune Tail (H),Mizutsune,5%,8%,--,75% (Tail),--,High
+Mizutsune Plate (H),Mizutsune,5%,7%,"7% (Head), 5% (Tail)","3% (Body), 7% (Tail)","3%(x1), 1%(x1)",High
+Mizutsune Water Orb,Mizutsune,2%,3%,"3% (Head), 2% (Tail)","1% (Body), 3% (Tail)	",1%,High
+Mizutsune Fin+,Mizutsune,--,--,"60% (Head), 60% (Dorsal Fin), 40% (Dorsal Fin)",--,--,High
+Nargacuga Blackfur,Nargacuga,14%,28%,--,22% (Body),40%,Low
+Nargacuga Scale,Nargacuga,30%,15% (x2),30% (x2) (Head),43% (Body),25%,Low
+Nargacuga Fang,Nargacuga,15%,24%,"25% (Head), 45% (x2) (Head)",16% (Body),10%,Low
+Nargacuga Cutwing,Nargacuga,12%,--,"65% (Cutwing), 35% (x2) (Cutwing)",12% (Body),--,Low
+Nargacuga Tailspike,Nargacuga,14%,20% (x2),--,8% (x2) (Tail),15%,Low
+Nargacuga Tail,Nargacuga,8%,10%,--,80% (Tail),--,Low
+Nargacuga Marrow,Nargacuga,7%,3%,--,"7% (Body), 12% (Tail)",--,Low
+Nargacuga Pelt+,Nargacuga,14%,28%,--,22% (Body),40%,High
+Nargacuga Scale+,Nargacuga,30%,17% (x2),30% (x2) (Head),37% (Body),27%,High
+Nargacuga Fang+,Nargacuga,19%,21%,"25% (Head), 45% (x2) (Head)",14% (Body),12%,High
+Nargacuga Razor,Nargacuga,15%,--,"65% (Cutwing), 35% (x2) (Cutwing)",10% (Body),--,High
+Nargacuga Tailspike (H),Nargacuga,8% (x2),15% (x2),--,5% (x2) (Tail),10% (x2),High
+Nargacuga Tail (H),Nargacuga,6%,7%,--,70% (Tail),--,High
+Narga Medulla,Nargacuga,5%,3%,--,"7% (Body), 12% (Tail)",--,High
+Wyvern Gem (Nargacuga),Nargacuga,3%,4%,--,1% (Body),1%,High
+Nargacuga Marrow (H),Nargacuga,--,5%,--,"9% (Body), 13% (Tail)",--,High
+Scale of Origin,Narwa the Allmother,26%,--,--,"42% (Body), 20% (Tail)",42%,High
+Narwa Hide+ (Narwa the Allmother),Narwa the Allmother,28%,--,"87% (Abdomen), 15% (Horn)",25% (Body),25%,High
+Horn of Origin,Narwa the Allmother,16%,--,80% (Horn),--,--,High
+Narwa Sparksac (Narwa the Allmother),Narwa the Allmother,12%,--,"60% (Back), 20% (Wingarm)",75% (Tail),--,High
+Narwa Tentacle (Narwa the Allmother),Narwa the Allmother,15%,--,40% (Back),11% (Body),--,High
+Orb of Origin,Narwa the Allmother,3%,--,"5% (Horn), 3% (Abdomen)","5% (Tail), 2% (Body)",1%,High
+Thunder Serpent Orb (Narwa the Allmother),Narwa the Allmother,--,--,5% (Abdomen),--,--,High
+Wind Serpent Orb (Narwa the Allmother),Narwa the Allmother,--,--,5% (Abdomen),--,--,High
+Narwa Claw+ (Narwa the Allmother),Narwa the Allmother,--,--,80% (Wingarm),20% (Body),10%,High
+Elder Dragon Blood (Narwa the Allmother),Narwa the Allmother,--,--,--,--,27%,High
+Pukei-Pukei Scale,Pukei-Pukei,20%,19%,"25% (Head), 20% (Back), 20% (Wing)",42% (Body),35%,Low
+Pukei-Pukei Shell,Pukei-Pukei,27%,31%,80% (Back),"32%(Body), 20% (Tail)",15%,Low
+Pukei-Pukei Quill,Pukei-Pukei,11%,16%,80% (Wing),10% (Body),--,Low
+Pukei-Pukei Tail,Pukei-Pukei,7%,12%,--,80% (Tail),--,Low
+Pukei-Pukei Sac,Pukei-Pukei,14%,22%,75% (Head),16% (Body),--,Low
+Poison Sac (Pukei-Pukei),Pukei-Pukei,11%,--,--,--,--,Low
+Monster Bone L (Pukei-Pukei),Pukei-Pukei,10%,--,--,--,--,Low
+Pukei-Pukei Scale+,Pukei-Pukei,21%,19%,"22% (x2) (Head), 20% (Back), 20% (Wing)",42% (Body),34%,High
+Pukei-Pukei Carapace,Pukei-Pukei,28%,34%,80% (Back),"32% (Body), 26% (Tail)",15%,High
+Pukei-Pukei Wing,Pukei-Pukei,12%,15%,80% (Wing),10% (Body),--,High
+Pukei-Pukei Sac+,Pukei-Pukei,15%,18%,75% (Head),16% (Body),--,High
+Toxin Sac (Pukei-Pukei),Pukei-Pukei,11%,--,--,--,--,High
+Monster Keenbone (Pukei-Pukei),Pukei-Pukei,10% (x2),--,--,--,--,High
+Bird Wyvern Gem (Pukei-Pukei),Pukei-Pukei,3%,5%,3% (Head),4% (Tail),1%,High
+Pukei-Pukei Tail (H),Pukei-Pukei,--,9%,--,70% (Tail),--,High
+Rajang Blackfur,Rajang,16%,27%,"30% (Right Arm), 30% (Left Arm)",37% (Body),58%,High
+Rajang Claw+,Rajang,19%,20%,"70% (Right Arm), 70% (Left Arm)",20% (Body),--,High
+Rajang Fang+,Rajang,28%,15% (x2),--,27% (Body),30%,High
+Rajang Tail,Rajang,7%,12%,90% (Tail),--,--,High
+Gold Rajang Pelt,Rajang,12%,16%,"30% (One Horn), 10% (Tail)",10% (Body),10%,High
+Beast Gem (Rajang),Rajang,8%,10%,--,6% (Body),1%,High
+Great Stoutbone,Rajang,10% (x2),--,--,--,--,High
+Rajang Horn+,Rajang,--,--,"70% (One Horn), 100% (Both Horns)",--,--,High
+Rakna-Kadaki Carapace,Rakna-Kadaki,17%,25%,50% (Head),33% (Body),60%,High
+Rakna-Kadaki Silk,Rakna-Kadaki,12%,17%,"30% (Head), 80% (x2) (Legs)",13% (Body),40%,High
+Rakna-Kadaki Glowgut,Rakna-Kadaki,17%,--,60% (Glowgut),16% (Body),--,High
+Rakna-Kadaki Sharpclaw,Rakna-Kadaki,25%,33%,100% (Claw),24% (Body),--,High
+Rakna-Kadaki Spike,Rakna-Kadaki,10%,15% (x2),"40% (Glowgut), 20% (Legs)",--,10%,High
+Monster Broth (Rakna-Kadaki),Rakna-Kadaki,19%,10% (x2),20% (Head),14% (Body),--,High
+Rathalos Scale,Rathalos,16%,--,66% (Head),"38% (Body), 20% (Tail)",37%,Low
+Rathalos Shell,Rathalos,31%,30%,30% (Head). 68% (Back),24% (Body),30%,Low
+Rathalos Webbing,Rathalos,23%,27%,25% (Wing),20% (Body),--,Low
+Rathalos Tail,Rathalos,7%,19%,--,70% (Tail),--,Low
+Flame Sac (Rathalos),Rathalos,14%,--,--,12% (Body),--,Low
+Rathalos Marrow (Rathalos),Rathalos,7%,7%,30% (Back),"5% (Body), 7% (Tail)",--,Low
+Rathalos Plate,Rathalos,2%,3%,"4% (Head), 2% (Back)","1% (Body), 3% (Tail)",1%,Low
+Rath Wingtalon (Rathalos),Rathalos,--,14%,75% (x2) (Wing),--,12%,Low
+Rathalos Scale+,Rathalos,15%,--,63% (Head),"36% (Body), 13% (Tail)",34%,High
+Rathalos Carapace,Rathalos,27%,32%,"26% (Head), 45% (Back)",24% (Body),30%,High
+Rathalos Wing,Rathalos,20%,27%,30% (Wing),19% (Body),--,High
+Inferno Sac (Rathalos),Rathalos,15%,--,--,12% (Body),--,High
+Rathalos Marrow (H) (Rathalos),Rathalos,10%,--,20% (Back),12% (Tail),--,High
+Rathalos Medulla (Rathalos),Rathalos,7%,7%,30% (Back),"5% (Body), 7% (Tail)",--,High
+Rathalos Plate (H),Rathalos,5%,5%,"7% (Head), 4% (Back)","3% (Body), 5% (Tail)",3%,High
+Rathalos Ruby,Rathalos,1%,3%,"4% (Head), 1% (Back)","1% (Body), 3% (Tail)",1%,High
+Rathalos Tail (H),Rathalos,--,12%,--,60% (Tail),--,High
+Rath Wingtalon+ (Rathalos),Rathalos,--,14%,70% (Wing),--,12%,High
+Rathian Scale,Rathian,14%,16% (x2),60% (Head),"38% (Body), 50% (Tail)","45%(x1), 45%(x1)",Low
+Rathian Shell,Rathian,28%,34%,"36% (Head), 29% (Back)",26% (Body),39%,Low
+Rathian Webbing,Rathian,19%,--,20% (Wing),17% (Body),--,Low
+Rathian Spike,Rathian,7%,--,70% (Back),"5% (Body), 40% (Tail)","4%(x1), 1%(x1)",Low
+Flame Sac (Rathian),Rathian,17%,21%,--,13% (Body),--,Low
+Monster Bone L (Rathian),Rathian,13%,--,--,--,--,Low
+Rathian Plate,Rathian,2%,3%,"4% (Head), 1% (Back)","1% (Body), 3% (Tail)",1%,Low
+Rath Wingtalon (Rathian),Rathian,--,14%,80%(x2) (Wing),--,15%,Low
+Rathalos Marrow (Rathian),Rathian,--,12%,--,7% (Tail),--,Low
+Rathian Scale+,Rathian,14%,12% (x2),60% (Head),"43% (Body), 35% (Tail)","42%(x1), 44%(x1)",High
+Rathian Carapace,Rathian,31%,25%,"30% (Head), 26% (Back)",31% (Body),39%,High
+Rathian Webbing (H),Rathian,12% (x2),--,20%(x2) (Wing),--,--,High
+Rathain Spike+,Rathian,7%,--,70% (Back),"5% (Body), 40% (Tail)","4%(x1), 1%(x1)",High
+Inferno Sac (Rathian),Rathian,18%,20%,--,17% (Body),--,High
+Monster Keenbone (Rathian),Rathian,12%,--,--,--,--,High
+Rathian Plate (H),Rathian,5%,5%,"7% (Head), 3% (Back)","3% (Body), 5% (Tail)","3%(x1), 1%(x1)",High
+Rathian Ruby,Rathian,1%,3%,"3% (Head), 1% (Back)","1% (Body), 3% (Tail)",1%,High
+Rath Wingtalon+ (Rathian),Rathian,--,13%,80% (Wing),--,15%,High
+Rathalos Marrow (H) (Rathian),Rathian,--,12%,--,10% (Tail),--,High
+Rathalos Medulla (Rathian),Rathian,--,10%,--,7% (Tail),--,High
+Royal Ludroth Scale,Royal Ludroth,11%,16% (x2),"20%(x1) (Head), 20%(x2) (Mane)","32%(x1) (Body), 30%(x1) (Tail)",--,Low
+Royal Ludroth Claw,Royal Ludroth,21%,--,--,23% (Body),"15%(x1), 10%(x1)",Low
+Spongy Hide,Royal Ludroth,26%,24%,60% (Mane),30% (Body),35%,Low
+Royal Ludroth Crest,Royal Ludroth,10%,--,80% (Head),--,--,Low
+Royal Ludroth Tail,Royal Ludroth,6%,16%,--,70% (Tail),--,Low
+Aqua Sac (Royal Ludroth),Royal Ludroth,14%,14% (x2),--,--,--,Low
+Dash Extract (Royal Ludroth),Royal Ludroth,12%,30%,20% (Mane),15% (Body),"40%(x1), 50%(x1)",Low
+Royal Ludroth Scale+,Royal Ludroth,12%,18% (x2),"20%(x1) (Head), 20%(x2) (Mane)","33% (Body), 28% (Tail)",--,High
+Royal Ludroth Claw+,Royal Ludroth,22%,--,--,24% (Body),"15%(x1), 15%(x1)",High
+Spongy Hide+,Royal Ludroth,27%,27%,60% (Mane),31% (Body),50%,High
+Royal Ludroth Crest+,Royal Ludroth,10%,--,80% (Head),--,--,High
+Royal Ludroth Tail (H),Royal Ludroth,5%,12%,--,70% (Tail),--,High
+Torrent Sac (Royal Ludroth),Royal Ludroth,14%,16% (x2),--,--,--,High
+Dash Extract (H) (Royal Ludroth),Royal Ludroth,9% (x2),24% (x2),20% (x2) (Mane),12% (x2) (Body),"34%(x2), 35%(x2)",High
+Wyvern Gem (Royal Ludroth),Royal Ludroth,1%,3%,--,2% (Tail),1%,High
+Somnacanth Scale,Somnacanth,21%,17%,"20% (Arm), 100% (Tail)",43% (Body),50%,Low
+Somnacanth Shell,Somnacanth,34%,--,--,33% (Body),--,Low
+Somnacanth Fin,Somnacanth,14%,--,80% (Head Fin),10% (Body),--,Low
+Somnacanth Dust,Somnacanth,23%,"30%(x1), 12%(x2)",20% (Head Fin),15% (Body),"40%(x1), 35%(x2)",Low
+Monster Bone L (Somnacanth),Somnacanth,8%,14%(x2),--,--,--,Low
+Somnacanth Talon,Somnacanth,--,27%,80%(x2) (Arm)	,--,"10%(x1), 15%(x1)",Low
+Somnacanth Scale+,Somnacanth,21%,16%,"20% (Arm), 97% (Tail)",43% (Body),50%,High
+Somnacanth Shell+,Somnacanth,33%,29%,--,32% (Body),--,High
+Somnacanth Fin+,Somnacanth,14%,--,80% (Head Fin),10% (Body),--,High
+Somnacanth Sedative,Somnacanth,23%,12%,17% (Head Fin),14% (Body),"39%(x1), 35%(x2)",High
+Monster Hardbone (Somnacanth),Somnacanth,7%,14% (x2),--,--,--,High
+Wyvern Gem (Somnacanth),Somnacanth,2%,3%,"3% (Head Fin), 3% (Tail)",1% (Body),1%,High
+Somnacanth Talon+,Somnacanth,--,26% (x2),80% (Arm),--,"10%(x1), 15%(x1)",High
+Teostra Carapace,Teostra,14%,--,--,27% (Body),"15% (x1), 40% (x1)",High
+Fire Dragon Scale+,Teostra,26%,--,--,"21% (Body), 17% (Tail)",25%,High
+Teostra Mane,Teostra,19%,--,25% (Head),18% (Body),--,High
+Teostra Claw+,Teostra,16%,--,18%(x2) (Wingclaw),14% (Body),--,High
+Teostra Powder,Teostra,10%,--,12%(x2) (Wingclaw),--,"34% (x1), 25% (x2)",High
+Teostra Tail,Teostra,12%,--,--,,1%,High
+Teostra Gem,Teostra,3%,--,3% (Head),"2% (x1) (Body), 3% (x1) (Tail)",--,High
+Teostra Webbing,Teostra,--,--,72% (Head),10% (Body),--,High
+Elder Dragon Blood (Teostra),Teostra,--,--,--,--,"10% (x1), 10% (x1)",High
+Tetranadon Hide,Tetranadon,24%,21%,"30% (Beak), 30% (Torso), 100% (Arm)",44% (Body),"20%(x1), 30%(x1)",Low
+Tetra Carapace,Tetranadon,32%,33%,100% (Caparace),32% (Body),"30%(x1), 70%(x1)",Low
+Tetranadon Beak,Tetranadon,8%,12%,70% (Beak),5% (Body),--,Low
+Aqua Sac (Tetranadon),Tetranadon,24%,29%,70% (Torso),19% (Body),--,Low
+Jumbo Bone (Tetranadon),Tetranadon,12%,--,--,--,--,Low
+Tetranadon Disc,Tetranadon,--,5%,100% (Plate),--,"20%(x1), 30%(x1)",Low
+Tetranadon Hide+,Tetranadon,24%,21%,"30% (Beak), 30% (Torso), 100% (Arm)",44% (Body),"30%(x1), 70%(x1)",High
+Tetra Carapace+,Tetranadon,32%,33%,100% (Carapace),32% (Body),--,High
+Tetranadon Beak+,Tetranadon,8%,12%,70% (Beak),5% (Body),--,High
+Torrent Sac (Tetranadon),Tetranadon,24%,29%,70% (Torso),19% (Body),--,High
+Stoutbone (Tetranadon),Tetranadon,12%,--,--,--,--,High
+Tetranadon Disc+,Tetranadon,--,5%,100% (Plate),--,--,High
+Narwa Carapace,Thunder Serpent Narwa,22%,--,--,"37% (Body), 17% (Tail)",--,High
+Narwa Hide+ (Thunder Serpent Narwa),Thunder Serpent Narwa,32%,--,"17% (Horn), 97% (Abdomen)",29% (Body),--,High
+Narwa Horn+,Thunder Serpent Narwa,12%,--,80% (Horn),--,--,High
+Narwa Sparksac (Thunder Serpent Narwa),Thunder Serpent Narwa,14%,--,"60% (Back), 20% (Wingarm)",80% (Tail),30%,High
+Narwa Tentacle (Thunder Serpent Narwa),Thunder Serpent Narwa,18%,--,40% (Back),12% (Body),--,High
+Thunder Serpent Orb (Thunder Serpent Narwa),Thunder Serpent Narwa,2%,--,"3% (Horn), 3% (Abdomen)","1% (Body), 3% (Tail)",1%,High
+Narwa Claw+ (Thunder Serpent Narwa),Thunder Serpent Narwa,--,--,80%(x2) (Wingarm),21% (Body),20%,High
+Elder Dragon Blood (Thunder Serpent Narwa),Thunder Serpent Narwa,--,--,--,--,20%,Low
+Tigrex Shell,Tigrex,15%,37%,28% (Head),20% (Body),30%,Low
+Tigrex Scale,Tigrex,33%,18%,20% (Claw),"45% (Body), 20% (Tail)","40%(x1), 50%(x1)",Low
+Tigrex Claw,Tigrex,21%,--,80%(x2) (Claw),32% (Body),"10%(x1), 20%(x1)",Low
+Tigrex Fang,Tigrex,17%,28%,60%(x2) (Head),--,--,Low
+Tigrex Tail,Tigrex,9%,12%,--,80% (Tail),--,Low
+Tigrex Scalp,Tigrex,5%,5%,12% (Head),3% (Body),--,Low
+Tigrex Carapace,Tigrex,15%,34%,17% (Head),18% (Body),30%,High
+Tigrex Scale+,Tigrex,32%,16% (x2),20% (Claw),"42% (Body), 15% (Tail)","39%(x1), 50%(x1)",High
+Tigrex Claw+,Tigrex,21%,--,80%(x2) (Claw),30% (Body),"10%(x1), 20%(x1)",High
+Tigrex Fang+,Tigrex,17%,27%,60%(x2) (Head),--,--,High
+Tigrex Scalp (H),Tigrex,8%,8%,15% (Head),7% (Body),--,High
+Tigrex Maw,Tigrex,4%,5%,8% (Head),3% (Body),--,High
+Wyvern Gem (Tigrex),Tigrex,3%,--,--,5% (Tail),1%,High
+Tigrex Tail (H),Tigrex,--,10%,--,80% (Tail),--,High
+Tobi-Kadachi Pelt,Tobi-Kadachi,13%,12%,"70% (Back), 20% (Tail)",27% (Body),35%,Low
+Tobi-Kadachi Scale,Tobi-Kadachi,29%,19%,"30% (x2) (Head), 30% (Back), 20% (Tail)",38% (Body),"40%(x1), 50%(x1)",Low
+Tobi-Kadachi Membrane,Tobi-Kadachi,23%,22%,--,23% (Body),--,Low
+Tobi-Kadachi Claw,Tobi-Kadachi,15%,33%,80% (Foreleg),12% (Body),"10%(x1), 15%(x1)",Low
+Tobi-Kadachi Electrode,Tobi-Kadachi,8%,14%,"80% (Head), 80% (Tail)",--,--,Low
+Electro Sac (Tobi-Kadachi),Tobi-Kadachi,12%,--,--,--,--,Low
+Tobi-Kadachi Pelt+,Tobi-Kadachi,17%,14%,"70% (Back), 20% (Tail)",31% (Body),35%,High
+Tobi-Kadachi Scale+,Tobi-Kadachi,34%,22% (x2),"17% (x2) (Head), 30% (Back), 20% (Foreleg)",43% (Body),"39%(x1), 50%(x1)",High
+Tobi-Kadachi Claw+,Tobi-Kadachi,24%,34%,80% (Foreleg),13% (Body),"10%(x1), 15%(x1)",High
+Tobi-Kadachi Electrode+,Tobi-Kadachi,9%,14%,"80% (Head), 80% (Tail)",--,--,High
+Thunder Sac (Tobi-Kadachi),Tobi-Kadachi,14%,--,--,--,--,High
+Wyvern Gem (Tobi-Kadachi),Tobi-Kadachi,2%,3%,3% (Head),1% (Body),1%,High
+Tobi-Kadachi Membrane (H),Tobi-Kadachi,--,13% (x2),--,12% (x2) (Body),--,High
+Volvidon Shell,Volvidon,15%,26%,30% (Back),40% (Body),35%,Low
+Volvidon Claw,Volvidon,19%,34%,--,19% (Body),15%,Low
+Volvi Rickrack,Volvidon,22%,--,70% (Back),24% (Body),--,Low
+Paralysis Sac,Volvidon,16%,22%,--,17% (Body),--,Low
+Jumbo Bone (Volvidon),Volvidon,13% (x2),18% (x3),--,--,--,Low
+Monster Fluid,Volvidon,15%,--,--,--,25%,Low
+Volvi Carapace,Volvidon,14%,21%,35% (Back),41% (Body),34%,High
+Volvidon Claw+,Volvidon,21%,32%,--,22% (Body),15%,High
+Volvi Rickrack (H),Volvidon,9% (x2),--,65% (x2) (Back),11% (x2) (Body),--,High
+Omniplegia Sac,Volvidon,20%,22%,--,21% (x2) (Body),--,High
+Stoutbone (Volvidon),Volvidon,11% (x2),16% (x3),--,--,--,High
+Monster Broth (Volvidon),Volvidon,18%,--,--,--,25% (x2),High
+Beast Gem (Volvidon),Volvidon,7%,9%,--,5% (Body),1%,High
+Ibushi Carapace,Wind Serpent Ibushi,22%,--,--,"37% (Body), 37% (Tail)",50%,High
+Ibushi Hide+,Wind Serpent Ibushi,32%,--,17% (Horn),29% (Body),35%,High
+Ibushi Horn+,Wind Serpent Ibushi,12%,--,80% (Horn),--,--,High
+Ibushi Windsac,Wind Serpent Ibushi,14%,--,"60% (Back), 20% (Wingarm)",80% (Tail),30%,High
+Ibushi Bluespike,Wind Serpent Ibushi,18%,--,40% (Back),12% (Body),20%,High
+Wind Serpent Orb (Wind Serpent Ibushi),Wind Serpent Ibushi,2%,--,3% (Horn),"1% (Body), 3% (Tail)",1%,High
+Ibushi Claw+,Wind Serpent Ibushi,--,--,80% (x2) (Wingarm),21% (Body),20%,High
+Zinogre Shell,Zinogre,21%,15% (x2),--,"34% (Body), 17% (Tail)",29%,Low
+Zinogre Shockfur,Zinogre,31%,29%,30% (Back),25% (Body),40%,Low
+Zinogre Shocker,Zinogre,21%,25%,"70% (Back), 10% (Foreleg)",18% (Body),--,Low
+Zinogre Tail,Zinogre,8%,12%,--,80% (Tail),--,Low
+Fulgurbug,Zinogre,17% (x2),--,--,--,20%,Low
+Zinogre Plate,Zinogre,2%,3%,3% (Both Horns),"1% (Body), 3% (Tail)",1%,Low
+Zinogre Horn,Zinogre,--,16%,97% (Both Horns),--,--,Low
+Zinogre Claw,Zinogre,--,--,"70% (Foreleg), 20% (x2) (Both Forelegs)",22% (Body),10%,Low
+Zinogre Carapace,Zinogre,21%,15% (x2),--,"33% (Body), 10% (Tail)",31%,High
+Zinogre Electrofur,Zinogre,33%,29%,30% (Back),24% (Body),40%,High
+Zinogre Shocker+,Zinogre,23%,25%,"70% (Back), 10% (Foreleg)",17% (Body),--,High
+Zinogre Tail (H),Zinogre,4%,7%,--,80% (Tail),--,High
+Fulgurbug (H),Zinogre,12% (x3),--,--,--,15% (x2),High
+Zinogre Plate (H),Zinogre,5%,5%,7% (Both Horns),"3% (Body), 7% (Tail)",3%,High
+Zinogre Jasper,Zinogre,2%,3%,3% (Both Horns),"1% (Body), 3% (Tail)",1%,High
+Zinogre Horn+,Zinogre,--,16%,90% (Both Horns),--,--,High
+Zinogre Claw+,Zinogre,--,--,"70% Foreleg), 20% (x2) (Both Forelegs)",22% (Body),10%,High
